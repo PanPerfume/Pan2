@@ -1,4 +1,4 @@
-MariaDB
+MariaDB:    
 MariaDB 由 MySQL 的原创人员开发，并被维基百科，Facebook 甚至 Google 等技术巨头使用。 MariaDB 是一种可为 MySQL 提供插件替换功能的数据库服务器。开发人员的首要关注点是安全性，在每个版本发布时，开发人员还会合并所有 MySQL 的安全修补程序，并在需要时对其进行增强。
 优点： 
 •	高可扩展性，易于集成 
@@ -11,7 +11,7 @@ MariaDB 由 MySQL 的原创人员开发，并被维基百科，Facebook 甚至 G
 •	没有 memcached 界面 
 •	没有优化器跟踪 
 
-MongoDB
+MongoDB:    
 MongoDB 创立于2007年，被称为“数据库巨头”。 由 DoubleClick, ShopWiki 和 Gilt Groupe 背后的开发人员开发，并由 Fidelity Investments， Goldman Sachs Group，Inc.，Intel Capital 这些机构投资。自成立以来，MongoDB 已经被下载了 2 亿次，并且有超过 1000 个合作伙伴支持。这些合作伙伴致力于这个免费的开源解决方案，他们相信编码与数据库应该是简单而自然的。
 优点：
 •	文件验证 
@@ -27,7 +27,7 @@ MongoDB 创立于2007年，被称为“数据库巨头”。 由 DoubleClick, Sh
 •	不是传统应用程序的替代品 
 •	年轻的解决方案：软件更新快 
 
-MySQL 
+MySQL:    
 MySQL 诞生于 1995 年前后，现在归 Oracle 拥有。 它是开源的，但也有几个付费版本提供其他功能，如异地备份和自动缩放。 因为MySQL是一个行业标准，所以它兼容每个操作系统，并由 C 和 C++ 编写。 该解决方案对于国际用户来说是一个很好的选择，因为服务器可以用多种语言向客户端发送错误消息，而且支持多种不同的字符集。 
 优点：
 •	基于主机的验证
@@ -43,7 +43,7 @@ MySQL 诞生于 1995 年前后，现在归 Oracle 拥有。 它是开源的，�
 •	会员无法修复 bug 和补丁
 •	由于更新缓慢而落后于其他数据库
 
-PostgreSQL
+PostgreSQL:    
 PostgreSQL 拥有超过 15 年的积累，是另一个明星级开源选择，运行于所有主要的操作系统，包括Linux，UNIX（AIX，BSD，HP-UX，SGI IRIX，Mac OS X，Solaris，Tru64）和 Windows。 PostgreSQL 还完全符合 ACID 要素（原子性，一致性，隔离性，持久性）。
 优点：
 •	创建自定义数据类型和查询方法 
@@ -59,7 +59,7 @@ PostgreSQL 拥有超过 15 年的积累，是另一个明星级开源选择，�
 •	高交易率环境中的问题
 •	由强大的社区发展起来的
 
-SQLite
+SQLite:    
 改进需要更大的努力SQLite 自称是世界上部署最广泛的数据库，2000年开始使用，已被诸如苹果，Facebook，微软和谷歌等知名公司使用。 每个版本均经过仔细测试来以确保可靠性。即使有错误，SQLite 的开发人员也会通过诚实地提供每个版本的错误列表和代码更改时间来告知其潜在的缺点。 
 优点： 
 •	没有单独的服务器进程 
